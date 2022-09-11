@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This ![tiktok-clone](https://user-images.githubusercontent.com/108053364/189539484-6e8c23f9-0353-41a3-ba2d-655aafb9e20b.gif)
+project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
